@@ -1,13 +1,13 @@
 {
   "platform": "android",
-  "versionCode": 194,
-  "version": "1.6.34-android",
-  "releaseNotes": "修复 map-13（右-锤子门）在侧门、全图及手动框选模式下的识别错误；修复悬浮地图无法拖到真实屏幕上下边缘的问题。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.6.34/IdentityV-Map-Assistant-1.6.34-android.apk",
-  "sha256": "EF5D97B71B7E687EF774643B9DE0BDF3402EB291EFAA804D0C1E99CAC04385DA",
-  "size": 25442833,
-  "publishedAt": "2026-08-01T15:26:58Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.6.34",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.6.34/IdentityV-Map-Assistant-1.6.34-android.apk"
+  "versionCode": 195,
+  "version": "1.6.35-android",
+  "releaseNotes": "修复南-orz门在侧门和全图模式下会错识别为右-锤子门的问题。无后摇换刀加入背包键，攻击后会自动重新打开背包。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.6.35/IdentityV-Map-Assistant-1.6.35-android.apk",
+  "sha256": "0517836E57812F36CFBD772B66D3BD8C8BC51DCB99A16B455B6C0CE0F6AC9E5A",
+  "size": 25472406,
+  "publishedAt": "2026-08-02T21:57:51Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.6.35",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.6.35/IdentityV-Map-Assistant-1.6.35-android.apk"
 }
 

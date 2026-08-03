@@ -1,12 +1,13 @@
 {
   "platform": "android",
-  "versionCode": 201,
-  "version": "1.7.1-android",
-  "releaseNotes": "定点悬浮地图长按会连同地图球和楼层按钮一起隐藏；识别出下一张地图时会自动恢复。\r\n新增“重新摆放悬浮图”，可随时重新进入拖动和缩放定位。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.1/IdentityV-Map-pe-1.7.1.apk",
-  "sha256": "0CC8E6842C2D17B266AD0D39B6C2105B11161C6917EC90338767056F94D29E33",
-  "size": 25199582,
-  "publishedAt": "2026-08-03T13:16:21Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.7.1",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.1/IdentityV-Map-pe-1.7.1.apk"
+  "versionCode": 202,
+  "version": "1.7.2-android",
+  "releaseNotes": "应用内更新连不上主下载地址时，会自动切换备用连接。\r\n关于与更新、设置、无后摇、浮窗识别重新打开会回到顶部。\r\n无后摇新增兼容模式，保持原速度再试一次。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.2/IdentityV-Map-pe-1.7.2.apk",
+  "fallbackDownloadUrl": "https://raw.githubusercontent.com/Sakitams/identityv-map-assistant-updates/main/android-downloads/IdentityV-Map-pe-1.7.2.apk",
+  "sha256": "114560826C08B08C57D6B0227E81AC7DAB9E3A7C6CCEF448C2F0B541DC85B9DB",
+  "size": 25201698,
+  "publishedAt": "2026-08-03T14:29:31Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.7.2",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.2/IdentityV-Map-pe-1.7.2.apk"
 }

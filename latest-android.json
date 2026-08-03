@@ -1,13 +1,13 @@
 {
   "platform": "android",
-  "versionCode": 197,
-  "version": "1.6.37-android",
-  "releaseNotes": "悬浮地图现在可以自由切换凉哈皮和展十，定点地图也能放得更大。展十地图清理了多余文字和杂图。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.6.37/IdentityV-Map-Assistant-1.6.37-android.apk",
-  "sha256": "913978807A506C12025E092C5422AB528226D89D20C9515BF2A8EEFD4F2A6C34",
-  "size": 25173206,
-  "publishedAt": "2026-08-03T05:23:33Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.6.37",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.6.37/IdentityV-Map-Assistant-1.6.37-android.apk"
+  "versionCode": 198,
+  "version": "1.6.38-android",
+  "releaseNotes": "修复悬浮地图透明度低于 50% 时无法拖动的问题。定点模式新增自动打开游戏地图并点击“全览”，图库可分别打开普通悬浮攻略图或定点悬浮地图；无后摇新增开始前点背包开关。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.6.38/IdentityV-Map-Assistant-1.6.38-android.apk",
+  "sha256": "0DCFEEF6EDE29802D5248DD5E733C87E5923DADBF2E2922811660602F9DFA2F4",
+  "size": 25184226,
+  "publishedAt": "2026-08-03T06:23:35Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.6.38",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.6.38/IdentityV-Map-Assistant-1.6.38-android.apk"
 }
 

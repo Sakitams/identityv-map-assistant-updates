@@ -2,12 +2,12 @@
 
 作者：星辰
 
-当前版本：v1.4.3
+当前版本：v1.4.4
 
-[下载 Windows 便携版](https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.4.3/IdentityV-Map-Assistant-1.4.3-portable.exe)
+[下载 Windows 便携版](https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.4.4/IdentityV-Map-pc-1.4.4.exe)
 
-SHA-256：DC893F2CE9FEB6EA25FE2E21DD0227BC304A090F08D843C2A8D71BDB068C1534
+SHA-256：$sha256
 
-文件大小：105552601 字节
+文件大小：105410174 字节
 
-更新说明：修复北-T门与南-orz门侧门识别，优化相似地图区分和游戏地图覆盖稳定性。
+更新说明：新增PC定点悬浮地图，支持Ctrl+4执行Tab等待全览点击并显示地图，支持共享单图定位透明度等待时间设置，保留识别覆盖优化。

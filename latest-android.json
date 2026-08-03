@@ -1,13 +1,12 @@
 {
   "platform": "android",
-  "versionCode": 198,
-  "version": "1.6.38-android",
-  "releaseNotes": "修复悬浮地图透明度低于 50% 时无法拖动的问题。定点模式新增自动打开游戏地图并点击“全览”，图库可分别打开普通悬浮攻略图或定点悬浮地图；无后摇新增开始前点背包开关。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.6.38/IdentityV-Map-Assistant-1.6.38-android.apk",
-  "sha256": "0DCFEEF6EDE29802D5248DD5E733C87E5923DADBF2E2922811660602F9DFA2F4",
-  "size": 25184226,
-  "publishedAt": "2026-08-03T06:23:35Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.6.38",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.6.38/IdentityV-Map-Assistant-1.6.38-android.apk"
+  "versionCode": 199,
+  "version": "1.6.39-android",
+  "releaseNotes": "新增软件内问题日志，遇到无后摇、悬浮地图或识别异常时可直接复制发给作者排查。定点地图球的长按隐藏和更新失败提示也已修复。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.6.39/IdentityV-Map-pe-1.6.39-1.apk",
+  "sha256": "F82FA974CBBD6D5C151C8D088F7387362C7AE0782E39F1C88448D16A34E3E1D9",
+  "size": 25196230,
+  "publishedAt": "2026-08-03T09:57:07Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.6.39",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.6.39/IdentityV-Map-pe-1.6.39-1.apk"
 }
-

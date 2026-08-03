@@ -1,12 +1,12 @@
 {
   "platform": "android",
-  "versionCode": 200,
-  "version": "1.7.0-android",
-  "releaseNotes": "首页与设置页重新排版，常用入口和悬浮地图设置更好找。配色更柔和，原有识别、浮窗和无后摇功能不变。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.0/IdentityV-Map-pe-1.7.0.apk",
-  "sha256": "04D640B99A71A025389D524CBF90700B2A4CE2A9200DF4260025F68F1F0E0438",
-  "size": 25198418,
-  "publishedAt": "2026-08-03T11:12:43Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.7.0",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.0/IdentityV-Map-pe-1.7.0.apk"
+  "versionCode": 201,
+  "version": "1.7.1-android",
+  "releaseNotes": "定点悬浮地图长按会连同地图球和楼层按钮一起隐藏；识别出下一张地图时会自动恢复。\r\n新增“重新摆放悬浮图”，可随时重新进入拖动和缩放定位。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.1/IdentityV-Map-pe-1.7.1.apk",
+  "sha256": "0CC8E6842C2D17B266AD0D39B6C2105B11161C6917EC90338767056F94D29E33",
+  "size": 25199582,
+  "publishedAt": "2026-08-03T13:16:21Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.7.1",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.1/IdentityV-Map-pe-1.7.1.apk"
 }

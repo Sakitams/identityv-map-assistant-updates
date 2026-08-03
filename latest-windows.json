@@ -1,1 +1,11 @@
-{"platform":"windows","versionCode":10403,"version":"1.4.3","releaseNotes":"修复北-T门与南-orz门侧门识别，优化相似地图区分和游戏地图覆盖稳定性。","downloadUrl":"https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.4.3/IdentityV-Map-Assistant-1.4.3-portable.exe","sha256":"DC893F2CE9FEB6EA25FE2E21DD0227BC304A090F08D843C2A8D71BDB068C1534","size":105552601,"publishedAt":"2026-08-02T16:03:14.6957773Z","releaseUrl":"https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/windows-v1.4.3"}
+{
+  "platform": "windows",
+  "versionCode": 144,
+  "version": "1.4.4",
+  "releaseNotes": "新增PC定点悬浮地图，支持Ctrl+4执行Tab等待全览点击并显示地图，支持共享单图定位透明度等待时间设置，保留识别覆盖优化。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.4.4/IdentityV-Map-pc-1.4.4.exe",
+  "sha256": "AF8DEAE79D94FC12432BFFF740BE611F431AAEDE7F03DB4E05487471CDFF127B",
+  "size": 105410174,
+  "publishedAt": "2026-08-03T17:39:27.2558942Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/windows-v1.4.4"
+}

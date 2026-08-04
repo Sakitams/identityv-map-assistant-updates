@@ -1,13 +1,13 @@
 {
   "platform": "android",
-  "versionCode": 203,
-  "version": "1.7.3-android",
-  "releaseNotes": "首页改为更清爽的工具布局，离线图库、无后摇和浮窗识别更好找。\r\n新增深浅主题和底栏“悬浮”入口，设置与我的分区更清楚。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.3/IdentityV-Map-pe-1.7.3.apk",
-  "fallbackDownloadUrl": "https://raw.githubusercontent.com/Sakitams/identityv-map-assistant-updates/main/android-downloads/IdentityV-Map-pe-1.7.3.apk",
-  "sha256": "D4B5B69C7CA63FBEDCD520612D74175DE2029539BCBA854BF857B42F7A8F295B",
-  "size": 25044799,
-  "publishedAt": "2026-08-04T00:31:43Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.7.3",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.3/IdentityV-Map-pe-1.7.3.apk"
+  "versionCode": 204,
+  "version": "1.7.4-android",
+  "releaseNotes": "浮窗识图双击会按进入方式在全图/手动或侧门/手动之间切换。\r\n手动选图加入侧门缩略图，定点地图支持再次点击关闭游戏地图并往复显示。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.4/IdentityV-Map-pe-1.7.4.apk",
+  "fallbackDownloadUrl": "https://raw.githubusercontent.com/Sakitams/identityv-map-assistant-updates/main/android-downloads/IdentityV-Map-pe-1.7.4.apk",
+  "sha256": "08F2549DE4E364E7090A3105B3D6A047FF7123E87A2B316140A94EEC8C485A17",
+  "size": 25046255,
+  "publishedAt": "2026-08-04T18:15:35Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.7.4",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.4/IdentityV-Map-pe-1.7.4.apk"
 }

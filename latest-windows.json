@@ -1,11 +1,11 @@
 {
   "platform": "windows",
-  "versionCode": 144,
-  "version": "1.4.4",
-  "releaseNotes": "新增PC定点悬浮地图，支持Ctrl+4执行Tab等待全览点击并显示地图，支持共享单图定位透明度等待时间设置，保留识别覆盖优化。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.4.4/IdentityV-Map-pc-1.4.4.exe",
-  "sha256": "AF8DEAE79D94FC12432BFFF740BE611F431AAEDE7F03DB4E05487471CDFF127B",
-  "size": 105410174,
-  "publishedAt": "2026-08-03T17:39:27.2558942Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/windows-v1.4.4"
+  "versionCode": 145,
+  "version": "1.4.5",
+  "releaseNotes": "更新地图路线软件图标，优化 Windows 端图标显示。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.4.5/IdentityV-Map-pc-1.4.5.exe",
+  "sha256": "4BC03B1B39ADF3C9243FCC66F3307FAB1CA5BE0DB16FAD6B0B38E82E6650F1A6",
+  "size": 106926076,
+  "publishedAt": "2026-08-04T02:54:06.9781930Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/windows-v1.4.5"
 }

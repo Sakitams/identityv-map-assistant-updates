@@ -1,13 +1,13 @@
 {
   "platform": "android",
-  "versionCode": 202,
-  "version": "1.7.2-android",
-  "releaseNotes": "应用内更新连不上主下载地址时，会自动切换备用连接。\r\n关于与更新、设置、无后摇、浮窗识别重新打开会回到顶部。\r\n无后摇新增兼容模式，保持原速度再试一次。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.2/IdentityV-Map-pe-1.7.2.apk",
-  "fallbackDownloadUrl": "https://raw.githubusercontent.com/Sakitams/identityv-map-assistant-updates/main/android-downloads/IdentityV-Map-pe-1.7.2.apk",
-  "sha256": "114560826C08B08C57D6B0227E81AC7DAB9E3A7C6CCEF448C2F0B541DC85B9DB",
-  "size": 25201698,
-  "publishedAt": "2026-08-03T14:29:31Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.7.2",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.2/IdentityV-Map-pe-1.7.2.apk"
+  "versionCode": 203,
+  "version": "1.7.3-android",
+  "releaseNotes": "首页改为更清爽的工具布局，离线图库、无后摇和浮窗识别更好找。\r\n新增深浅主题和底栏“悬浮”入口，设置与我的分区更清楚。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.3/IdentityV-Map-pe-1.7.3.apk",
+  "fallbackDownloadUrl": "https://raw.githubusercontent.com/Sakitams/identityv-map-assistant-updates/main/android-downloads/IdentityV-Map-pe-1.7.3.apk",
+  "sha256": "D4B5B69C7CA63FBEDCD520612D74175DE2029539BCBA854BF857B42F7A8F295B",
+  "size": 25044799,
+  "publishedAt": "2026-08-04T00:31:43Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.7.3",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.3/IdentityV-Map-pe-1.7.3.apk"
 }

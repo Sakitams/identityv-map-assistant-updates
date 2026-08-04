@@ -1,11 +1,11 @@
 {
   "platform": "windows",
-  "versionCode": 145,
-  "version": "1.4.5",
-  "releaseNotes": "更新地图路线软件图标，优化 Windows 端图标显示。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.4.5/IdentityV-Map-pc-1.4.5.exe",
-  "sha256": "4BC03B1B39ADF3C9243FCC66F3307FAB1CA5BE0DB16FAD6B0B38E82E6650F1A6",
-  "size": 106926076,
-  "publishedAt": "2026-08-04T02:54:06.9781930Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/windows-v1.4.5"
+  "versionCode": 146,
+  "version": "1.4.6",
+  "releaseNotes": "手动选图新增侧门局部图，识别结果工作栏新增定点悬浮地图按钮。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.4.6/IdentityV-Map-pc-1.4.6.exe",
+  "sha256": "6F1948CDB5AA996029E716DB3B90F503249CE5BED1C3E85D1CF6F5E62E22209B",
+  "size": 107093598,
+  "publishedAt": "2026-08-04T18:20:06.5218920Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/windows-v1.4.6"
 }

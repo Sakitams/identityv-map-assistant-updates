@@ -6,7 +6,7 @@
 
 [下载 Windows 便携版](https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.4.5/IdentityV-Map-pc-1.4.5.exe)
 
-SHA-256：$sha256
+SHA-256：`4BC03B1B39ADF3C9243FCC66F3307FAB1CA5BE0DB16FAD6B0B38E82E6650F1A6`
 
 文件大小：106926076 字节
 

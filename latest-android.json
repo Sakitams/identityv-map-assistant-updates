@@ -1,13 +1,13 @@
 {
   "platform": "android",
-  "versionCode": 205,
-  "version": "1.7.5-android",
-  "releaseNotes": "定点地图的打开、全览和关闭响应更快，三处点击位置可分别设置，定位时地图会临时半透明。\r\n纯手动识别改为先显示“选图”按钮，支持长按或摇一摇隐藏；设置里也可在底部栏和经典列表间切换。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.5/IdentityV-Map-pe-1.7.5.apk",
-  "fallbackDownloadUrl": "https://raw.githubusercontent.com/Sakitams/identityv-map-assistant-updates/main/android-downloads/IdentityV-Map-pe-1.7.5.apk",
-  "sha256": "85E1547F3591D7A47BF91F967153366EC59803EB984AB96E09B1ABBB385D9BF0",
-  "size": 25049723,
-  "publishedAt": "2026-08-05T04:46:49Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.7.5",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.5/IdentityV-Map-pe-1.7.5.apk"
+  "versionCode": 206,
+  "version": "1.7.6-android",
+  "releaseNotes": "地图图库现在可以导入自己的地图，支持长期保存、删除，并可直接打开普通悬浮窗或定点悬浮地图。\r\n手动选择地图面板支持拖动；悬浮图可以放大到屏幕外，应用页面也不会再误缩放。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.6/IdentityV-Map-pe-1.7.6.apk",
+  "fallbackDownloadUrl": "https://raw.githubusercontent.com/Sakitams/identityv-map-assistant-updates/main/android-downloads/IdentityV-Map-pe-1.7.6.apk",
+  "sha256": "1CF9BAC85D0151068C8087389E5842272887443415D8530D4CA14BF0A4F3197F",
+  "size": 25061707,
+  "publishedAt": "2026-08-05T13:33:58Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.7.6",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.6/IdentityV-Map-pe-1.7.6.apk"
 }

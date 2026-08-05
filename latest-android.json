@@ -1,13 +1,13 @@
 {
   "platform": "android",
-  "versionCode": 204,
-  "version": "1.7.4-android",
-  "releaseNotes": "浮窗识图双击会按进入方式在全图/手动或侧门/手动之间切换。\r\n手动选图加入侧门缩略图，定点地图支持再次点击关闭游戏地图并往复显示。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.4/IdentityV-Map-pe-1.7.4.apk",
-  "fallbackDownloadUrl": "https://raw.githubusercontent.com/Sakitams/identityv-map-assistant-updates/main/android-downloads/IdentityV-Map-pe-1.7.4.apk",
-  "sha256": "08F2549DE4E364E7090A3105B3D6A047FF7123E87A2B316140A94EEC8C485A17",
-  "size": 25046255,
-  "publishedAt": "2026-08-04T18:15:35Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.7.4",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.4/IdentityV-Map-pe-1.7.4.apk"
+  "versionCode": 205,
+  "version": "1.7.5-android",
+  "releaseNotes": "定点地图的打开、全览和关闭响应更快，三处点击位置可分别设置，定位时地图会临时半透明。\r\n纯手动识别改为先显示“选图”按钮，支持长按或摇一摇隐藏；设置里也可在底部栏和经典列表间切换。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.5/IdentityV-Map-pe-1.7.5.apk",
+  "fallbackDownloadUrl": "https://raw.githubusercontent.com/Sakitams/identityv-map-assistant-updates/main/android-downloads/IdentityV-Map-pe-1.7.5.apk",
+  "sha256": "85E1547F3591D7A47BF91F967153366EC59803EB984AB96E09B1ABBB385D9BF0",
+  "size": 25049723,
+  "publishedAt": "2026-08-05T04:21:56Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.7.5",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.5/IdentityV-Map-pe-1.7.5.apk"
 }

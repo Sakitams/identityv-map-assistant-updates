@@ -2,12 +2,12 @@
 
 作者：星辰
 
-当前版本：v1.4.7
+当前版本：v1.4.8
 
-[下载 Windows 便携版](https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.4.7/IdentityV-Map-pc-1.4.7.exe)
+[下载 Windows 便携版](https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.4.8/IdentityV-Map-pc-1.4.8.exe)
 
-SHA-256：`AE4425B826AE828D49F059D28004F838DE3C9C9829045BCEDEBFD370DEC3C743`
+SHA-256：`042B2D444B9BAF021F44B05927F1D9C660B1FD8308758CB26EFEE12A91AE77D2`
 
-文件大小：107256613 字节
+文件大小：107259558 字节
 
-更新说明：修复定点悬浮地图调整时图片空白、窗口控制鼠标的问题；调整入口会等待地图加载完成，失败或失焦时自动释放鼠标。记录全览位置时可自动调出游戏鼠标，并优化9/0微调和长按缩放。
+更新说明：修复定点悬浮地图无法显示、图片加载时序和调整交互；修复记录全览位置误绑定系统窗口，改为只识别第五人格并延长切回游戏时间；自动开关游戏地图失败时仍会先显示定点地图。

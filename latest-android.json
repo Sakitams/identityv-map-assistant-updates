@@ -1,13 +1,13 @@
 {
   "platform": "android",
-  "versionCode": 206,
-  "version": "1.7.6-android",
-  "releaseNotes": "地图图库现在可以导入自己的地图，支持长期保存、删除，并可直接打开普通悬浮窗或定点悬浮地图。\r\n手动选择地图面板支持拖动；悬浮图可以放大到屏幕外，应用页面也不会再误缩放。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.6/IdentityV-Map-pe-1.7.6.apk",
-  "fallbackDownloadUrl": "https://raw.githubusercontent.com/Sakitams/identityv-map-assistant-updates/main/android-downloads/IdentityV-Map-pe-1.7.6.apk",
-  "sha256": "1CF9BAC85D0151068C8087389E5842272887443415D8530D4CA14BF0A4F3197F",
-  "size": 25061707,
-  "publishedAt": "2026-08-05T13:39:04Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.7.6",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.6/IdentityV-Map-pe-1.7.6.apk"
+  "versionCode": 207,
+  "version": "1.7.7-android",
+  "releaseNotes": "新增开箱连点和可调速度，无后摇支持 0.25～5 刀/秒。\r\n凉哈皮图库加入左灯笼第二套图，并修复更新页版本显示、增加夸克下载入口。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.7/IdentityV-Map-pe-1.7.7.apk",
+  "fallbackDownloadUrl": "https://raw.githubusercontent.com/Sakitams/identityv-map-assistant-updates/main/android-downloads/IdentityV-Map-pe-1.7.7.apk",
+  "sha256": "FA3D6AFF7BF5D4FBA4D7EBAF7B7A0F65B2F12A851AACEBEE431CC2FF17C51FFA",
+  "size": 25206244,
+  "publishedAt": "2026-08-06T03:50:42Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.7.7",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.7/IdentityV-Map-pe-1.7.7.apk"
 }

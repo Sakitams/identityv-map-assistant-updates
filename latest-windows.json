@@ -1,14 +1,14 @@
 {
   "platform": "windows",
-  "versionCode": 1410,
-  "version": "1.4.10",
-  "releaseNotes": "新增展十全棺版图源；支持手动选图、设置默认图源和悬浮图切换；修复全棺版悬浮图未按楼层裁剪的问题。",
+  "versionCode": 1411,
+  "version": "1.4.11",
+  "releaseNotes": "优化 PC 主界面：压缩顶部栏，重整右侧地图操作区层级，宽屏按钮不再挤压；保留全部现有功能与紧凑布局。",
   "downloadMode": "direct",
   "downloadProvider": "夸克网盘",
   "downloadPageUrl": "https://pan.quark.cn/s/4cec4ca814f7",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.4.10/IdentityV-Map-pc-1.4.10.exe",
-  "sha256": "3CF3EDEF892CC87C05A5EC1F5125AA21D12BABD5F211F93A2D9AD8C813901AFE",
-  "size": 118411604,
-  "publishedAt": "2026-08-06T07:55:41.3207775Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/windows-v1.4.10"
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.4.11/IdentityV-Map-pc-1.4.11.exe",
+  "sha256": "8FF219DED4BC65208E5283DFD11BE27145BFAA42B5A886C6B764664DC149742E",
+  "size": 118412799,
+  "publishedAt": "2026-08-06T11:57:01.8386985Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/windows-v1.4.11"
 }

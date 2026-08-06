@@ -1,13 +1,13 @@
 {
   "platform": "android",
-  "versionCode": 207,
-  "version": "1.7.7-android",
-  "releaseNotes": "新增开箱连点和可调速度，无后摇支持 0.25～5 刀/秒。\r\n凉哈皮图库加入左灯笼第二套图，并修复更新页版本显示、增加夸克下载入口。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.7/IdentityV-Map-pe-1.7.7.apk",
-  "fallbackDownloadUrl": "https://raw.githubusercontent.com/Sakitams/identityv-map-assistant-updates/main/android-downloads/IdentityV-Map-pe-1.7.7.apk",
-  "sha256": "FA3D6AFF7BF5D4FBA4D7EBAF7B7A0F65B2F12A851AACEBEE431CC2FF17C51FFA",
-  "size": 25206244,
-  "publishedAt": "2026-08-06T03:50:42Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.7.7",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.7/IdentityV-Map-pe-1.7.7.apk"
+  "versionCode": 208,
+  "version": "1.7.8-android",
+  "releaseNotes": "新增展十全棺版第三套离线攻略图源，共29张，包含左-锤灯笼门-2；普通/定点悬浮图、手动选图和识别结果预览支持图源切换。自动识别逻辑保持不变。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.8/IdentityV-Map-pe-1.7.8.apk",
+  "fallbackDownloadUrl": "https://raw.githubusercontent.com/Sakitams/identityv-map-assistant-updates/main/android-downloads/IdentityV-Map-pe-1.7.8.apk",
+  "sha256": "039ACE1C3A939E93098FE81B96DF4351D28AFFBB65210748D6AB2A532147BBDC",
+  "size": 32583380,
+  "publishedAt": "2026-08-06T07:30:52Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.7.8",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.8/IdentityV-Map-pe-1.7.8.apk"
 }

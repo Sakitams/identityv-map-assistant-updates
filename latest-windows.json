@@ -1,14 +1,14 @@
 {
   "platform": "windows",
-  "versionCode": 149,
-  "version": "1.4.9",
-  "releaseNotes": "新增鼠标侧键快捷键；识别时可保持主窗口不最小化；关闭按钮支持留在后台或直接退出；新增手动地图“左-锤灯笼门-2”；更新弹窗支持 GitHub 自动更新和夸克网盘备用下载。",
+  "versionCode": 1410,
+  "version": "1.4.10",
+  "releaseNotes": "新增展十全棺版图源；支持手动选图、设置默认图源和悬浮图切换；修复全棺版悬浮图未按楼层裁剪的问题。",
   "downloadMode": "direct",
   "downloadProvider": "夸克网盘",
   "downloadPageUrl": "https://pan.quark.cn/s/4cec4ca814f7",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.4.9/IdentityV-Map-pc-1.4.9.exe",
-  "sha256": "68701A6069E6C1CE23053F32F786A6084A84714F906EE8CA15583DA76819ED88",
-  "size": 107372913,
-  "publishedAt": "2026-08-06T04:34:35.8922011Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/windows-v1.4.9"
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.4.10/IdentityV-Map-pc-1.4.10.exe",
+  "sha256": "3CF3EDEF892CC87C05A5EC1F5125AA21D12BABD5F211F93A2D9AD8C813901AFE",
+  "size": 118411604,
+  "publishedAt": "2026-08-06T07:55:41.3207775Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/windows-v1.4.10"
 }

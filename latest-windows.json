@@ -1,11 +1,14 @@
 {
   "platform": "windows",
-  "versionCode": 148,
-  "version": "1.4.8",
-  "releaseNotes": "修复定点悬浮地图无法显示、图片加载时序和调整交互；修复记录全览位置误绑定系统窗口，改为只识别第五人格并延长切回游戏时间；自动开关游戏地图失败时仍会先显示定点地图。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.4.8/IdentityV-Map-pc-1.4.8.exe",
-  "sha256": "042B2D444B9BAF021F44B05927F1D9C660B1FD8308758CB26EFEE12A91AE77D2",
-  "size": 107259558,
-  "publishedAt": "2026-08-05T14:15:13.5826569Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/windows-v1.4.8"
+  "versionCode": 149,
+  "version": "1.4.9",
+  "releaseNotes": "新增鼠标侧键快捷键；识别时可保持主窗口不最小化；关闭按钮支持留在后台或直接退出；新增手动地图“左-锤灯笼门-2”；更新弹窗支持 GitHub 自动更新和夸克网盘备用下载。",
+  "downloadMode": "direct",
+  "downloadProvider": "夸克网盘",
+  "downloadPageUrl": "https://pan.quark.cn/s/4cec4ca814f7",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.4.9/IdentityV-Map-pc-1.4.9.exe",
+  "sha256": "68701A6069E6C1CE23053F32F786A6084A84714F906EE8CA15583DA76819ED88",
+  "size": 107372913,
+  "publishedAt": "2026-08-06T04:34:35.8922011Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/windows-v1.4.9"
 }

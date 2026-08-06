@@ -1,13 +1,13 @@
 {
   "platform": "android",
-  "versionCode": 208,
-  "version": "1.7.8-android",
-  "releaseNotes": "新增展十全棺版第三套离线攻略图源，共29张，包含左-锤灯笼门-2；普通/定点悬浮图、手动选图和识别结果预览支持图源切换。自动识别逻辑保持不变。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.8/IdentityV-Map-pe-1.7.8.apk",
-  "fallbackDownloadUrl": "https://raw.githubusercontent.com/Sakitams/identityv-map-assistant-updates/main/android-downloads/IdentityV-Map-pe-1.7.8.apk",
-  "sha256": "039ACE1C3A939E93098FE81B96DF4351D28AFFBB65210748D6AB2A532147BBDC",
-  "size": 32583380,
-  "publishedAt": "2026-08-06T07:30:52Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.7.8",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.8/IdentityV-Map-pe-1.7.8.apk"
+  "versionCode": 209,
+  "version": "1.7.9-android",
+  "releaseNotes": "修复部分 OriginOS 和 Android 平板的无障碍状态误报；识别证据不足时不再自动弹出错误攻略图；自定义地图支持新增、改名、删除和恢复默认图库。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.9/IdentityV-Map-pe-1.7.9.apk",
+  "fallbackDownloadUrl": "https://raw.githubusercontent.com/Sakitams/identityv-map-assistant-updates/main/android-downloads/IdentityV-Map-pe-1.7.9.apk",
+  "sha256": "141E5E0CA6ABBFB0A6D17F0476F792A91E5AE15C39C6466F8FD2865F3CFA6D61",
+  "size": 32591028,
+  "publishedAt": "2026-08-06T11:44:31Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.7.9",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.9/IdentityV-Map-pe-1.7.9.apk"
 }

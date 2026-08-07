@@ -1,14 +1,14 @@
 {
   "platform": "windows",
-  "versionCode": 1413,
-  "version": "1.4.13",
-  "releaseNotes": "优化打赏入口：新增爱心礼盒图标，按钮调整为“支持一下作者”。",
+  "versionCode": 1414,
+  "version": "1.4.14",
+  "releaseNotes": "修复展十全棺版“南-红门”切换二楼后地图变形；优化双屏下 Ctrl+2/Ctrl+4 悬浮图显示位置；精简设置中的重复定点地图入口。",
   "downloadMode": "direct",
   "downloadProvider": "夸克网盘",
   "downloadPageUrl": "https://pan.quark.cn/s/4cec4ca814f7",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.4.13/IdentityV-Map-pc-1.4.13.exe",
-  "sha256": "23CB782E820ACE524F17B90AA43DE6883B6AC989389CDEC58A10DBEDD472BF06",
-  "size": 118576381,
-  "publishedAt": "2026-08-07T04:59:30.5416362Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/windows-v1.4.13"
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.4.14/IdentityV-Map-pc-1.4.14.exe",
+  "sha256": "20E7D061B95350EE70802EF3827B349780C091080582A87C7DEAECC048CC81B2",
+  "size": 117578409,
+  "publishedAt": "2026-08-07T17:00:45.0842540Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/windows-v1.4.14"
 }

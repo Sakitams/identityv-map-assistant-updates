@@ -1,13 +1,12 @@
 {
   "platform": "android",
-  "versionCode": 213,
-  "version": "1.7.13-android",
-  "releaseNotes": "手动选图更简单，页面不再展示多余权限项。悬浮地图支持实时预览，默认大小更适合游戏画面；识别错误信息可以直接保存。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.13/IdentityV-Map-pe-1.7.13.apk",
-  "fallbackDownloadUrl": "https://raw.githubusercontent.com/Sakitams/identityv-map-assistant-updates/main/android-downloads/IdentityV-Map-pe-1.7.13.apk",
-  "sha256": "E4579DDFAA05B4966CFCF3FD3B7AE1C83F9CF7CC7656B909A94F13855D1F3E3A",
-  "size": 32691003,
-  "publishedAt": "2026-08-07T11:13:52.685Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.7.13",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.13/IdentityV-Map-pe-1.7.13.apk"
+  "versionCode": 214,
+  "version": "1.7.14-android",
+  "releaseNotes": "修复悬浮地图编辑缩放：大小范围调整为 50–1200dp，默认 180dp，支持放大并拖到屏幕外。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.14/IdentityV-Map-pe-1.7.14.apk",
+  "sha256": "083E0F68CC29A709B86BF2101A076D9A5DDADE211169BE6771B08885618B4903",
+  "size": 32689347,
+  "publishedAt": "2026-08-07T14:00:15Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.7.14",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.14/IdentityV-Map-pe-1.7.14.apk"
 }

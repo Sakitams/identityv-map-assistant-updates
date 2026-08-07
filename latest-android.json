@@ -1,12 +1,12 @@
 {
   "platform": "android",
-  "versionCode": 214,
-  "version": "1.7.14-android",
-  "releaseNotes": "修复悬浮地图编辑缩放：大小范围调整为 50–1200dp，默认 180dp，支持放大并拖到屏幕外。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.14/IdentityV-Map-pe-1.7.14.apk",
-  "sha256": "083E0F68CC29A709B86BF2101A076D9A5DDADE211169BE6771B08885618B4903",
-  "size": 32689347,
-  "publishedAt": "2026-08-07T14:00:15Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.7.14",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.14/IdentityV-Map-pe-1.7.14.apk"
+  "versionCode": 215,
+  "version": "1.7.15-android",
+  "releaseNotes": "修复定点悬浮地图双击保存后尺寸回缩，编辑缩放会按地图与楼层保存；普通浮窗每次识别成功按设置大小弹出。同步清理展十与展十全棺版悬浮楼层图的裁剪残块。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.15/IdentityV-Map-pe-1.7.15.apk",
+  "sha256": "DCBD5A2F944461D30F651D599A5E2F39D39C9BB61A9788E8851E94222622A539",
+  "size": 31731019,
+  "publishedAt": "2026-08-07T16:37:09Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.7.15",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.15/IdentityV-Map-pe-1.7.15.apk"
 }

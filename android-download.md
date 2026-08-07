@@ -7,8 +7,8 @@
 - 版本：1.7.15-android
 - versionCode：215
 - 发布日期：2026-08-08
-- APK 大小：31731019 字节
-- SHA-256：DCBD5A2F944461D30F651D599A5E2F39D39C9BB61A9788E8851E94222622A539
+- APK 大小：31731035 字节
+- SHA-256：673A19639B1C0F4FBC61869E9C311BB658FCEF9DBB3A25560C3FA3B861784774
 
 [下载 Android APK](https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.15/IdentityV-Map-pe-1.7.15.apk)
 

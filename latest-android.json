@@ -1,13 +1,13 @@
 {
   "platform": "android",
-  "versionCode": 212,
-  "version": "1.7.12-android",
-  "releaseNotes": "更新历史现在可在应用内弹窗查看。开箱连点的速度滑条加长，定点悬浮图的一楼和二楼可分别调整并保存位置。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.12/IdentityV-Map-pe-1.7.12.apk",
-  "fallbackDownloadUrl": "https://raw.githubusercontent.com/Sakitams/identityv-map-assistant-updates/main/android-downloads/IdentityV-Map-pe-1.7.12.apk",
-  "sha256": "5FFD4A7FF1DDBE1FFED0CA6C1AA916BF8375CFB87C79F3D041EE26B9F55CDD27",
-  "size": 32681067,
-  "publishedAt": "2026-08-07T04:36:05Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.7.12",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.12/IdentityV-Map-pe-1.7.12.apk"
+  "versionCode": 213,
+  "version": "1.7.13-android",
+  "releaseNotes": "手动选图更简单，页面不再展示多余权限项。悬浮地图支持实时预览，默认大小更适合游戏画面；识别错误信息可以直接保存。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.13/IdentityV-Map-pe-1.7.13.apk",
+  "fallbackDownloadUrl": "https://raw.githubusercontent.com/Sakitams/identityv-map-assistant-updates/main/android-downloads/IdentityV-Map-pe-1.7.13.apk",
+  "sha256": "E4579DDFAA05B4966CFCF3FD3B7AE1C83F9CF7CC7656B909A94F13855D1F3E3A",
+  "size": 32691003,
+  "publishedAt": "2026-08-07T11:13:52.685Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.7.13",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.13/IdentityV-Map-pe-1.7.13.apk"
 }

@@ -1,13 +1,13 @@
 {
   "platform": "android",
-  "versionCode": 211,
-  "version": "1.7.11-android",
-  "releaseNotes": "修复部分悬浮地图缩放时出现的横条。首页地图数量更新为 29 张，我的页面的作者支持和交流群入口也做了调整。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.11/IdentityV-Map-pe-1.7.11.apk",
-  "fallbackDownloadUrl": "https://raw.githubusercontent.com/Sakitams/identityv-map-assistant-updates/main/android-downloads/IdentityV-Map-pe-1.7.11.apk",
-  "sha256": "3B3DD0ABB36FB32F85EA13171A88AB3E6A9E36012F8C5DBF00DCEAA78B391B57",
-  "size": 32680027,
-  "publishedAt": "2026-08-07T02:41:45Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.7.11",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.11/IdentityV-Map-pe-1.7.11.apk"
+  "versionCode": 212,
+  "version": "1.7.12-android",
+  "releaseNotes": "更新历史现在可在应用内弹窗查看。开箱连点的速度滑条加长，定点悬浮图的一楼和二楼可分别调整并保存位置。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.12/IdentityV-Map-pe-1.7.12.apk",
+  "fallbackDownloadUrl": "https://raw.githubusercontent.com/Sakitams/identityv-map-assistant-updates/main/android-downloads/IdentityV-Map-pe-1.7.12.apk",
+  "sha256": "5FFD4A7FF1DDBE1FFED0CA6C1AA916BF8375CFB87C79F3D041EE26B9F55CDD27",
+  "size": 32681067,
+  "publishedAt": "2026-08-07T04:36:05Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.7.12",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.12/IdentityV-Map-pe-1.7.12.apk"
 }

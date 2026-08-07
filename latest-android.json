@@ -1,13 +1,13 @@
 {
   "platform": "android",
-  "versionCode": 209,
-  "version": "1.7.9-android",
-  "releaseNotes": "修复部分 OriginOS 和 Android 平板的无障碍状态误报；识别证据不足时不再自动弹出错误攻略图；自定义地图支持新增、改名、删除和恢复默认图库。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.9/IdentityV-Map-pe-1.7.9.apk",
-  "fallbackDownloadUrl": "https://raw.githubusercontent.com/Sakitams/identityv-map-assistant-updates/main/android-downloads/IdentityV-Map-pe-1.7.9.apk",
-  "sha256": "141E5E0CA6ABBFB0A6D17F0476F792A91E5AE15C39C6466F8FD2865F3CFA6D61",
-  "size": 32591028,
-  "publishedAt": "2026-08-06T11:44:31Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.7.9",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.9/IdentityV-Map-pe-1.7.9.apk"
+  "versionCode": 210,
+  "version": "1.7.10-android",
+  "releaseNotes": "开箱按钮首次点击即可定位，定位完成后同一按钮可开始或停止连点。更新页加入打赏支持和交流群入口。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.10/IdentityV-Map-pe-1.7.10.apk",
+  "fallbackDownloadUrl": "https://raw.githubusercontent.com/Sakitams/identityv-map-assistant-updates/main/android-downloads/IdentityV-Map-pe-1.7.10.apk",
+  "sha256": "3C126CC5B98F899DD6E77439FFF49BB30A011BCBA80E0EEC888B57BACBD69559",
+  "size": 32945763,
+  "publishedAt": "2026-08-07T00:37:22Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.7.10",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.10/IdentityV-Map-pe-1.7.10.apk"
 }

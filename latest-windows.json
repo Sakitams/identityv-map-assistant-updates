@@ -1,14 +1,17 @@
 {
   "platform": "windows",
-  "versionCode": 1416,
-  "version": "1.4.16",
-  "releaseNotes": "优化屏幕抓取兼容性、全览位置记录和快捷键设置，支持模拟器与鼠标右键。",
+  "versionCode": 1417,
+  "version": "1.4.17",
+  "releaseNotes": "升级为 Windows 安装版，支持旧便携版一键迁移、选择安装路径和后续覆盖更新；修复支持作者图标显示异常。",
   "downloadMode": "direct",
   "downloadProvider": "夸克网盘",
   "downloadPageUrl": "https://pan.quark.cn/s/4cec4ca814f7",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.4.16/IdentityV-Map-pc-1.4.16.exe",
-  "sha256": "808F156B9F2486E5FB9693FFBEED361AD2F893C32DE6EF2D54BEC760058542C0",
-  "size": 118515766,
-  "publishedAt": "2026-08-09T04:40:22.7935061Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/windows-v1.4.16"
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.4.17/IdentityV-Map-pc-1.4.17-bridge.exe",
+  "sha256": "D8C45F030B32EDA096D96E2AC25706FE4DE010666A4E2F8748FD24F7E0BA096C",
+  "size": 118519949,
+  "installerUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.4.17/IdentityV-Map-pc-1.4.17.exe",
+  "installerSha256": "55D421AA8515D1406AC38A996D989BDE158A9118F576B906F22A34DCFE06FE93",
+  "installerSize": 128254395,
+  "publishedAt": "2026-08-09T18:17:01.0832907Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/windows-v1.4.17"
 }

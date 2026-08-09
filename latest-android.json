@@ -1,12 +1,12 @@
 {
   "platform": "android",
-  "versionCode": 215,
-  "version": "1.7.15-android",
-  "releaseNotes": "修复定点悬浮地图双击保存后尺寸回缩，编辑缩放会按地图与楼层保存；普通浮窗每次识别成功按设置大小弹出。同步清理展十与展十全棺版悬浮楼层图的裁剪残块。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.15/IdentityV-Map-pe-1.7.15.apk",
-  "sha256": "673A19639B1C0F4FBC61869E9C311BB658FCEF9DBB3A25560C3FA3B861784774",
-  "size": 31731035,
-  "publishedAt": "2026-08-07T16:37:09Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.7.15",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.7.15/IdentityV-Map-pe-1.7.15.apk"
+  "versionCode": 217,
+  "version": "1.8.0-android",
+  "releaseNotes": "1.8.0 是一次较大的界面和地图功能更新。应用更名为“加页手记小抄助手”，首页和设置升级为蓝色玻璃风格，悬浮窗与悬浮地图设置分开。新增爱吃醋手动图库与两种悬浮方式，并优化全图、侧门识别、手动选图、楼层切换、浮窗显示和自动定位。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.0/IdentityV-Map-pe-1.8.0.apk",
+  "sha256": "80A596B204AF3A9E7DC0E026A82B1E06571354DD283609B350CA6A4092D709C1",
+  "size": 36718258,
+  "publishedAt": "2026-08-09T03:30:08Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.8.0",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.0/IdentityV-Map-pe-1.8.0.apk"
 }

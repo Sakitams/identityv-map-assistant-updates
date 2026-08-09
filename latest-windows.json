@@ -1,14 +1,14 @@
 {
   "platform": "windows",
-  "versionCode": 1415,
-  "version": "1.4.15",
-  "releaseNotes": "识别结果有候选时立即显示第一候选，并支持快速切换；重新设计识别结果操作区，修复紧凑和中宽窗口排版；无后摇默认快捷键改为 Alt+F，自定义单键快捷键不再拦截原按键功能。",
+  "versionCode": 1416,
+  "version": "1.4.16",
+  "releaseNotes": "优化屏幕抓取兼容性、全览位置记录和快捷键设置，支持模拟器与鼠标右键。",
   "downloadMode": "direct",
   "downloadProvider": "夸克网盘",
   "downloadPageUrl": "https://pan.quark.cn/s/4cec4ca814f7",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.4.15/IdentityV-Map-pc-1.4.15.exe",
-  "sha256": "70897C141B92351393AB5211E786B5BB259EED1F5C9DEDF0B8A5C89F942FBA48",
-  "size": 118515894,
-  "publishedAt": "2026-08-08T13:16:33.027Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/windows-v1.4.15"
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.4.16/IdentityV-Map-pc-1.4.16.exe",
+  "sha256": "808F156B9F2486E5FB9693FFBEED361AD2F893C32DE6EF2D54BEC760058542C0",
+  "size": 118515766,
+  "publishedAt": "2026-08-09T04:40:22.7935061Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/windows-v1.4.16"
 }

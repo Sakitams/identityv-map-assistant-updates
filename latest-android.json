@@ -1,12 +1,12 @@
 {
   "platform": "android",
-  "versionCode": 219,
-  "version": "1.8.2-android",
-  "releaseNotes": "修复右-三L门与左-Y门两组侧门识别错例；优化侧门参考与上下文匹配，修复悬浮服务状态栏图标显示。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.2/IdentityV-Map-pe-1.8.2.apk",
-  "sha256": "492CBBF4E3445005E3FCC029E3206AC8B097B5D0DAE586F2B10C465F724D3F13",
-  "size": 41609700,
-  "publishedAt": "2026-08-09T10:41:23Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.8.2",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.2/IdentityV-Map-pe-1.8.2.apk"
+  "versionCode": 220,
+  "version": "1.8.3-android",
+  "releaseNotes": "修复平板横屏使用无后摇和开箱连点时的触控位置偏移，升级后会自动要求重新校准。修复爱吃醋手动选图回退和团子预览错序。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.3/IdentityV-Map-pe-1.8.3.apk",
+  "sha256": "668155FAEBBDE1C7886FE6D3621EC6721C20CC0819D7841D75083D3115679EC9",
+  "size": 41529068,
+  "publishedAt": "2026-08-09T13:19:36Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.8.3",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.3/IdentityV-Map-pe-1.8.3.apk"
 }

@@ -1,12 +1,12 @@
 {
   "platform": "android",
-  "versionCode": 218,
-  "version": "1.8.1-android",
-  "releaseNotes": "新增团子手动图库，保留爱吃醋独立图库；修复北向 ORZ 侧门误识和爱吃醋分类空白，调整悬浮地图状态提醒并移除“重新摆放悬浮图”；悬浮透明度最低可调至 15%。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.1/IdentityV-Map-pe-1.8.1.apk",
-  "sha256": "A818FEAD168373127461B7C54E5E38FC230904C04D7CC627181C447F17D2B4C5",
-  "size": 41596813,
-  "publishedAt": "2026-08-09T08:17:49Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.8.1",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.1/IdentityV-Map-pe-1.8.1.apk"
+  "versionCode": 219,
+  "version": "1.8.2-android",
+  "releaseNotes": "修复右-三L门与左-Y门两组侧门识别错例；优化侧门参考与上下文匹配，修复悬浮服务状态栏图标显示。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.2/IdentityV-Map-pe-1.8.2.apk",
+  "sha256": "492CBBF4E3445005E3FCC029E3206AC8B097B5D0DAE586F2B10C465F724D3F13",
+  "size": 41609700,
+  "publishedAt": "2026-08-09T10:41:23Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.8.2",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.2/IdentityV-Map-pe-1.8.2.apk"
 }

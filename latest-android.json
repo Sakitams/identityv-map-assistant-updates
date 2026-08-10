@@ -1,12 +1,12 @@
 {
   "platform": "android",
-  "versionCode": 221,
-  "version": "1.8.4-android",
-  "releaseNotes": "优化侧门识别，减少 Y 门、Y 青蛙门、南十字门和北 1 门等相似地图的混淆。最近 10 条识别记录支持多选保存，团子专用二楼门图恢复正确对应。改进浮窗、无障碍和开箱交互，并修复部分 Android 9 设备页面缩放异常。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.4/IdentityV-Map-pe-1.8.4.apk",
-  "sha256": "61B3F553A12DA86AEF75E02EE6458791B8B8A3B54F4FB7E0425A8D093D67949F",
-  "size": 41653240,
-  "publishedAt": "2026-08-10T01:14:58Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.8.4",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.4/IdentityV-Map-pe-1.8.4.apk"
+  "versionCode": 222,
+  "version": "1.8.5-android",
+  "releaseNotes": "修复底部导航遮挡，优化直路、北 1 门等侧门识别和锤灯笼门攻略切换。无后摇增加玩家触摸暂停保护并缩短背包衔接等待；开箱新增按住或开关连点和圆形按钮透明度。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.5/IdentityV-Map-pe-1.8.5.apk",
+  "sha256": "15BF3B6ABDC048DA5936506461E6F84EC3F42EAAF6551F50BA39653708BAC0DE",
+  "size": 41662254,
+  "publishedAt": "2026-08-10T10:41:52Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.8.5",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.5/IdentityV-Map-pe-1.8.5.apk"
 }

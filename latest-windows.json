@@ -1,17 +1,17 @@
 {
   "platform": "windows",
-  "versionCode": 1417,
-  "version": "1.4.17",
-  "releaseNotes": "升级为 Windows 安装版，支持旧便携版一键迁移、选择安装路径和后续覆盖更新；修复支持作者图标显示异常。",
+  "versionCode": 150,
+  "version": "1.5.0",
+  "releaseNotes": "全新钴蓝玻璃界面，默认深色并支持浅色切换；重整悬浮地图操作与快捷键，优化手动选图、更新历史、支持作者和无后摇使用体验。",
   "downloadMode": "direct",
   "downloadProvider": "夸克网盘",
   "downloadPageUrl": "https://pan.quark.cn/s/4cec4ca814f7",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.4.17/IdentityV-Map-pc-1.4.17-bridge.exe",
-  "sha256": "D8C45F030B32EDA096D96E2AC25706FE4DE010666A4E2F8748FD24F7E0BA096C",
-  "size": 118519949,
-  "installerUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.4.17/IdentityV-Map-pc-1.4.17.exe",
-  "installerSha256": "55D421AA8515D1406AC38A996D989BDE158A9118F576B906F22A34DCFE06FE93",
-  "installerSize": 128254395,
-  "publishedAt": "2026-08-09T18:17:01.0832907Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/windows-v1.4.17"
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.5.0/IdentityV-Map-pc-1.5.0-bridge.exe",
+  "sha256": "643E7E0F4DF1B45D34A886D628A9393FF98A47716F8A41F4A065BAC07FBB6BB5",
+  "size": 120838753,
+  "installerUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.5.0/IdentityV-Map-pc-1.5.0.exe",
+  "installerSha256": "CBB9868FEEDBCDB1CAFB98D3E8A2A36375EF39E6E715A2F4E706D9A7B1E7D8B3",
+  "installerSize": 130646327,
+  "publishedAt": "2026-08-10T15:28:24.8688596Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/windows-v1.5.0"
 }

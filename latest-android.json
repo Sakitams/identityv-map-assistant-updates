@@ -1,12 +1,12 @@
 {
   "platform": "android",
-  "versionCode": 224,
-  "version": "1.8.7-android",
-  "releaseNotes": "修复无后摇在无人操作时反复运行与暂停的问题。简化游戏内控制：单击开始/暂停、双击五点校准、长按关闭；开始前点背包与平板兼容模式统一移至无后摇页面。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.7/IdentityV-Map-pe-1.8.7.apk",
-  "sha256": "BF36B937846BFC9019D2F76E96032CE05F91238D3BE1BE40558F06C15F583BD2",
-  "size": 41795740,
-  "publishedAt": "2026-08-10T16:51:42Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.8.7",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.7/IdentityV-Map-pe-1.8.7.apk"
+  "versionCode": 225,
+  "version": "1.8.8-android",
+  "releaseNotes": "悬浮窗体验更新：地图选择改为独立可拖动按钮，候选面板可单独移动；楼层按钮模式下隐藏整条地图工具栏。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.8/IdentityV-Map-pe-1.8.8.apk",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.8/IdentityV-Map-pe-1.8.8.apk",
+  "sha256": "83FA80B88A709EA49C31EEE133BB042740FAF8C269D344F3F16EA38ED5F018DF",
+  "size": 42083175,
+  "publishedAt": "2026-08-13T04:41:47.0899321Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.8.8"
 }

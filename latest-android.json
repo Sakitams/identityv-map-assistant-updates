@@ -1,12 +1,12 @@
 {
   "platform": "android",
-  "versionCode": 227,
-  "version": "1.8.10-android",
-  "releaseNotes": "楼层地图调整后双击保存即锁定穿透，不再挡住游戏操作。\n侧门识别首次使用更快，更新记录已补齐。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.10/IdentityV-Map-pe-1.8.10.apk",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.10/IdentityV-Map-pe-1.8.10.apk",
-  "sha256": "0CE38A90E4B437564A3C978B75F583931952E77E27E6EC19E1DF5F4A985E42C2",
-  "size": 42106072,
-  "publishedAt": "2026-08-14T02:18:55Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.8.10"
+  "versionCode": 228,
+  "version": "1.8.11-android",
+  "releaseNotes": "新增语音导航，可从游戏内全图、侧门识别或手动选图带入文稿并按句播放。\n工具栏悬浮窗重新支持缩小成地图球，定点检测和侧门识别也更稳定。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.11/IdentityV-Map-pe-1.8.11.apk",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.11/IdentityV-Map-pe-1.8.11.apk",
+  "sha256": "55F39A516E6CE21792C507DD384CC0161CEECD541CECB553B91D516D9ECD4BAE",
+  "size": 46350636,
+  "publishedAt": "2026-08-14T14:45:15Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.8.11"
 }

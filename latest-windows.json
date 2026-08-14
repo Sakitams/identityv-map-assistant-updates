@@ -1,17 +1,17 @@
 {
   "platform": "windows",
-  "versionCode": 151,
-  "version": "1.5.1",
-  "releaseNotes": "修复游戏内自动点击全览可能无响应的问题：改用分离的鼠标按下/抬起并增加按住与释放等待，同时补充失败阶段诊断。",
+  "versionCode": 152,
+  "version": "1.5.2",
+  "releaseNotes": "修复两组真实侧门识别的稳定性问题。",
   "downloadMode": "direct",
   "downloadProvider": "夸克网盘",
   "downloadPageUrl": "https://pan.quark.cn/s/4cec4ca814f7",
   "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.5.1/IdentityV-Map-pc-1.5.1-bridge.exe",
   "sha256": "AF584BFC1750E8C2349A1DCC5152D8CA431A260F41ACE22CBDC5EC82C447D8DE",
   "size": 120840357,
-  "installerUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.5.1/IdentityV-Map-pc-1.5.1.exe",
-  "installerSha256": "4B7C4A6072EBBD1F4E0A5161E2C8D93E0BD8C30858B1FFCA3C687FCB8A6F8626",
-  "installerSize": 130646797,
-  "publishedAt": "2026-08-12T07:33:00.6289975Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/windows-v1.5.1"
+  "installerUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.5.2/IdentityV-Map-pc-1.5.2.exe",
+  "installerSha256": "845091AC408D6EA95012F6A0E9DDB2BC6836C3C6E2AFD44BE0523D3E579DD256",
+  "installerSize": 134922606,
+  "publishedAt": "2026-08-14T03:45:36.3641623Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/windows-v1.5.2"
 }

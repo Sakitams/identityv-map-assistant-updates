@@ -1,12 +1,12 @@
 {
   "platform": "android",
-  "versionCode": 226,
-  "version": "1.8.9-android",
-  "releaseNotes": "楼层地图调整后可双击保存并锁定，游戏操作不再被攻略图遮挡。\n侧门识别首次使用更快，候选判断保持稳定。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.9/IdentityV-Map-pe-1.8.9.apk",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.9/IdentityV-Map-pe-1.8.9.apk",
-  "sha256": "08B1879A07E3AD618C5CE9AC8EC06E3568B983925D122321F1FE19F1939F6A77",
-  "size": 42106180,
-  "publishedAt": "2026-08-14T01:56:25Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.8.9"
+  "versionCode": 227,
+  "version": "1.8.10-android",
+  "releaseNotes": "楼层地图调整后双击保存即锁定穿透，不再挡住游戏操作。\n侧门识别首次使用更快，更新记录已补齐。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.10/IdentityV-Map-pe-1.8.10.apk",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.10/IdentityV-Map-pe-1.8.10.apk",
+  "sha256": "0CE38A90E4B437564A3C978B75F583931952E77E27E6EC19E1DF5F4A985E42C2",
+  "size": 42106072,
+  "publishedAt": "2026-08-14T02:18:55Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.8.10"
 }

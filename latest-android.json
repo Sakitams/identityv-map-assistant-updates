@@ -1,12 +1,12 @@
 {
   "platform": "android",
-  "versionCode": 228,
-  "version": "1.8.11-android",
-  "releaseNotes": "新增语音导航，可从游戏内全图、侧门识别或手动选图带入文稿并按句播放。\n工具栏悬浮窗重新支持缩小成地图球，定点检测和侧门识别也更稳定。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.11/IdentityV-Map-pe-1.8.11.apk",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.11/IdentityV-Map-pe-1.8.11.apk",
-  "sha256": "55F39A516E6CE21792C507DD384CC0161CEECD541CECB553B91D516D9ECD4BAE",
-  "size": 46350636,
-  "publishedAt": "2026-08-14T14:45:15Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.8.11"
+  "versionCode": 229,
+  "version": "1.8.12-android",
+  "releaseNotes": "爱吃醋、团子的手动选图现在可在设置中切换列表或轮盘，轮盘不再出现方形底框。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.12/IdentityV-Map-pe-1.8.12.apk",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.12/IdentityV-Map-pe-1.8.12.apk",
+  "sha256": "7ACA46F7C13F5C2E45A209215926B95A4043BE1BA7319109FE005DE03D893B94",
+  "size": 46369592,
+  "publishedAt": "2026-08-14T18:22:05Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.8.12"
 }

@@ -1,17 +1,17 @@
 {
   "platform": "windows",
-  "versionCode": 152,
-  "version": "1.5.2",
-  "releaseNotes": "修复两组真实侧门识别的稳定性问题。",
+  "versionCode": 153,
+  "version": "1.5.3",
+  "releaseNotes": "修复部分电脑启动后进程存在但主界面不显示的问题，增强窗口启动和失败提示。",
   "downloadMode": "direct",
   "downloadProvider": "夸克网盘",
   "downloadPageUrl": "https://pan.quark.cn/s/4cec4ca814f7",
   "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.5.1/IdentityV-Map-pc-1.5.1-bridge.exe",
   "sha256": "AF584BFC1750E8C2349A1DCC5152D8CA431A260F41ACE22CBDC5EC82C447D8DE",
   "size": 120840357,
-  "installerUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.5.2/IdentityV-Map-pc-1.5.2.exe",
-  "installerSha256": "845091AC408D6EA95012F6A0E9DDB2BC6836C3C6E2AFD44BE0523D3E579DD256",
-  "installerSize": 134922606,
-  "publishedAt": "2026-08-14T03:45:36.3641623Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/windows-v1.5.2"
+  "installerUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.5.3/IdentityV-Map-pc-1.5.3.exe",
+  "installerSha256": "BA26679D947F203259B981F9C25F6A8C813109CA9C7C2463B746A0CB92F174FF",
+  "installerSize": 134926071,
+  "publishedAt": "2026-08-14T11:12:53.5887539Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/windows-v1.5.3"
 }

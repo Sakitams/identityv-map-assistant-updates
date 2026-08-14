@@ -1,12 +1,12 @@
 {
   "platform": "android",
-  "versionCode": 225,
-  "version": "1.8.8-android",
-  "releaseNotes": "悬浮窗体验更新：地图选择改为独立可拖动按钮，候选面板可单独移动；楼层按钮模式下隐藏整条地图工具栏。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.8/IdentityV-Map-pe-1.8.8.apk",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.8/IdentityV-Map-pe-1.8.8.apk",
-  "sha256": "83FA80B88A709EA49C31EEE133BB042740FAF8C269D344F3F16EA38ED5F018DF",
-  "size": 42083175,
-  "publishedAt": "2026-08-13T04:41:47.0899321Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.8.8"
+  "versionCode": 226,
+  "version": "1.8.9-android",
+  "releaseNotes": "楼层地图调整后可双击保存并锁定，游戏操作不再被攻略图遮挡。\n侧门识别首次使用更快，候选判断保持稳定。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.9/IdentityV-Map-pe-1.8.9.apk",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.9/IdentityV-Map-pe-1.8.9.apk",
+  "sha256": "08B1879A07E3AD618C5CE9AC8EC06E3568B983925D122321F1FE19F1939F6A77",
+  "size": 42106180,
+  "publishedAt": "2026-08-14T01:56:25Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.8.9"
 }

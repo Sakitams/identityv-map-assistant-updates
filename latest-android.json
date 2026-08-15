@@ -5,8 +5,8 @@
   "releaseNotes": "语音导航支持开关、语音检测、逐图文稿编辑和自建语音包；浮窗文字、大小与透明度可按需调整。侧门识别与手动选图更稳定。",
   "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.15/IdentityV-Map-pe-1.8.15.apk",
   "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.15/IdentityV-Map-pe-1.8.15.apk",
-  "sha256": "D11CECA500DECA2EDBF7F20A35E109315B898C5BB087AD8D084AE05AFA27B5AB",
-  "size": 46392528,
+  "sha256": "F8EA4EA8C11D144D8D03605FCC6989C2ED97AF3E762F68311D0404AE33C7ED33",
+  "size": 46392700,
   "publishedAt": "2026-08-15T16:56:37Z",
   "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.8.15"
 }

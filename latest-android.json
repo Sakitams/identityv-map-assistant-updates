@@ -1,12 +1,12 @@
 {
   "platform": "android",
-  "versionCode": 229,
-  "version": "1.8.12-android",
-  "releaseNotes": "爱吃醋、团子的手动选图现在可在设置中切换列表或轮盘，轮盘不再出现方形底框。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.12/IdentityV-Map-pe-1.8.12.apk",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.12/IdentityV-Map-pe-1.8.12.apk",
-  "sha256": "7ACA46F7C13F5C2E45A209215926B95A4043BE1BA7319109FE005DE03D893B94",
-  "size": 46369592,
-  "publishedAt": "2026-08-14T18:22:05Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.8.12"
+  "versionCode": 230,
+  "version": "1.8.13-android",
+  "releaseNotes": "语音导航支持全图、侧门和手动选图，确认后可继续换下一张地图。浮窗可调大小和透明度。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.13/IdentityV-Map-pe-1.8.13.apk",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.13/IdentityV-Map-pe-1.8.13.apk",
+  "sha256": "80EF38046B3310A50576266A07DA5A4F12C0103718A032F31B34E806AB929A71",
+  "size": 46378736,
+  "publishedAt": "2026-08-15T02:43:00Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.8.13"
 }

@@ -1,5 +1,5 @@
 # Android 下载
 
-[下载 Android v1.8.12](https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.12/IdentityV-Map-pe-1.8.12.apk)
+[下载 Android v1.8.13](https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.13/IdentityV-Map-pe-1.8.13.apk)
 
-版本：1.8.12-android（229）
+版本：1.8.13-android（230）

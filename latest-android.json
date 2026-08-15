@@ -1,12 +1,12 @@
 {
   "platform": "android",
-  "versionCode": 231,
-  "version": "1.8.14-android",
-  "releaseNotes": "语音导航支持全图、侧门和手动选图，确认后可以继续切换地图。局内浮窗支持调整大小、透明度和文字显示。新增语音检测，失败时可直接打开系统语音设置；页面不再显示离线引擎下载入口。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.14/IdentityV-Map-pe-1.8.14.apk",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.14/IdentityV-Map-pe-1.8.14.apk",
-  "sha256": "00697D1A44DA5A72FDF3D046A239427CFC85AB0830AD87A712640821248AC8B3",
-  "size": 46387076,
-  "publishedAt": "2026-08-15T13:26:01Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.8.14"
+  "versionCode": 232,
+  "version": "1.8.15-android",
+  "releaseNotes": "语音导航支持开关、语音检测、逐图文稿编辑和自建语音包；浮窗文字、大小与透明度可按需调整。侧门识别与手动选图更稳定。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.15/IdentityV-Map-pe-1.8.15.apk",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.15/IdentityV-Map-pe-1.8.15.apk",
+  "sha256": "D11CECA500DECA2EDBF7F20A35E109315B898C5BB087AD8D084AE05AFA27B5AB",
+  "size": 46392528,
+  "publishedAt": "2026-08-15T16:56:37Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.8.15"
 }

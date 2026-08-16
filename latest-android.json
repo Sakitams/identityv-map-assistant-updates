@@ -1,12 +1,12 @@
 {
   "platform": "android",
-  "versionCode": 235,
-  "version": "1.8.18-android",
-  "releaseNotes": "修复部分手机开启演示录制后闪退，导致屏幕共享和悬浮窗一起消失的问题。遇到录制编码不兼容时，录制会停止，识别仍可继续使用。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.18/IdentityV-Map-pe-1.8.18.apk",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.18/IdentityV-Map-pe-1.8.18.apk",
-  "sha256": "549B5AD4F33E9823A2B89F19E3C4D93B9C13AE812C9FA1C3A59E1D95092656A6",
-  "size": 46766033,
-  "publishedAt": "2026-08-16T08:22:21Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.8.18"
+  "versionCode": 236,
+  "version": "1.8.19-android",
+  "releaseNotes": "优化自动地图对齐和显示，游戏地图打开后更容易贴合，关闭时会及时隐藏。\n校准和悬浮位置会保存，楼层球长按可重新定位。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.19/IdentityV-Map-pe-1.8.19.apk",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.19/IdentityV-Map-pe-1.8.19.apk",
+  "sha256": "EBB2DB4842E96519C380441208FA9CC217E25B0B56A1549C02DF7B500CA238AE",
+  "size": 46776757,
+  "publishedAt": "2026-08-16T15:42:11Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.8.19"
 }

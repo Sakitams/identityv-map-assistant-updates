@@ -1,12 +1,12 @@
 {
   "platform": "android",
-  "versionCode": 233,
-  "version": "1.8.16-android",
-  "releaseNotes": "截图识别选中地图后，可直接打开悬浮窗、定点地图、语音导航或自动地图。侧门识别优化了相似出口的筛选，减少误判。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.16/IdentityV-Map-pe-1.8.16.apk",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.16/IdentityV-Map-pe-1.8.16.apk",
-  "sha256": "DA94319C8D0E16B6C0250878D3680C66FA47642B1436AEA2755D3D2316D7122F",
-  "size": 46748237,
-  "publishedAt": "2026-08-16T02:43:51Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.8.16"
+  "versionCode": 234,
+  "version": "1.8.17-android",
+  "releaseNotes": "新增游戏内语音导航和截图识别后的快捷入口。\n地图识别框会按横竖屏分别保存，楼层按钮可拖动。\n修复部分手机悬浮窗录制画面异常；授权时请选整个屏幕。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.17/IdentityV-Map-pe-1.8.17.apk",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.17/IdentityV-Map-pe-1.8.17.apk",
+  "sha256": "8A444DB383DB2434037945B6093944C82664FE660F5D483586D37EB493FD1195",
+  "size": 46756761,
+  "publishedAt": "2026-08-16T05:16:47Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.8.17"
 }

@@ -1,17 +1,17 @@
 {
   "platform": "windows",
-  "versionCode": 154,
-  "version": "1.5.4",
-  "releaseNotes": "修复全图、侧门与结构证据融合导致的三类识别误判；语音导航支持 Alt+5 上一句、Alt+6 逐句导航。",
+  "versionCode": 155,
+  "version": "1.5.5",
+  "releaseNotes": "新增语音导航顶部文字悬浮窗快捷键移动、放大和缩小；修复自动地图调整状态同步问题。",
   "downloadMode": "direct",
   "downloadProvider": "夸克网盘",
   "downloadPageUrl": "https://pan.quark.cn/s/4cec4ca814f7",
   "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.5.1/IdentityV-Map-pc-1.5.1-bridge.exe",
   "sha256": "AF584BFC1750E8C2349A1DCC5152D8CA431A260F41ACE22CBDC5EC82C447D8DE",
   "size": 120840357,
-  "installerUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.5.4/IdentityV-Map-pc-1.5.4.exe",
-  "installerSha256": "F203DD0CB5A7442AED9ABA9DE6451FC6241D1E43E1A97FA0502A7C3CA91EFD6D",
-  "installerSize": 137428005,
-  "publishedAt": "2026-08-16T01:24:44.4888416Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/windows-v1.5.4"
+  "installerUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.5.5/IdentityV-Map-pc-1.5.5.exe",
+  "installerSha256": "7FAA729E3FEC39F5EC3E891C1B84320DC3661572956D95D6E2E44B0BA98D9E30",
+  "installerSize": 154948335,
+  "publishedAt": "2026-08-17T23:37:09.7779560Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/windows-v1.5.5"
 }

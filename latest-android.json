@@ -1,12 +1,12 @@
 {
   "platform": "android",
-  "versionCode": 236,
-  "version": "1.8.19-android",
-  "releaseNotes": "优化自动地图对齐和显示，游戏地图打开后更容易贴合，关闭时会及时隐藏。\n校准和悬浮位置会保存，楼层球长按可重新定位。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.19/IdentityV-Map-pe-1.8.19.apk",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.19/IdentityV-Map-pe-1.8.19.apk",
-  "sha256": "EBB2DB4842E96519C380441208FA9CC217E25B0B56A1549C02DF7B500CA238AE",
-  "size": 46776757,
-  "publishedAt": "2026-08-16T15:42:11Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.8.19"
+  "versionCode": 237,
+  "version": "1.8.20-android",
+  "releaseNotes": "修复爱吃醋图库封面不显示的问题。\n自动地图和自动定点地图入口暂时关闭，避免误触。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.20/IdentityV-Map-pe-1.8.20.apk",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.20/IdentityV-Map-pe-1.8.20.apk",
+  "sha256": "032CF077AB1D1CFC699E6BD247C4169AC2E869C627CC49FE5EB782B1B075C127",
+  "size": 70470757,
+  "publishedAt": "2026-08-18T00:48:44Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.8.20"
 }

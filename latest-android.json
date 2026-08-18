@@ -1,12 +1,12 @@
 {
   "platform": "android",
-  "versionCode": 237,
-  "version": "1.8.20-android",
-  "releaseNotes": "修复爱吃醋图库封面不显示的问题。\n自动地图和自动定点地图入口暂时关闭，避免误触。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.20/IdentityV-Map-pe-1.8.20.apk",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.20/IdentityV-Map-pe-1.8.20.apk",
-  "sha256": "032CF077AB1D1CFC699E6BD247C4169AC2E869C627CC49FE5EB782B1B075C127",
-  "size": 70470757,
-  "publishedAt": "2026-08-18T00:48:44Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.8.20"
+  "versionCode": 238,
+  "version": "1.8.21-android",
+  "releaseNotes": "优化游戏内地图显示设置。自动地图和自动定点地图入口暂时关闭，避免误触。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.21/IdentityV-Map-pe-1.8.21.apk",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.21/IdentityV-Map-pe-1.8.21.apk",
+  "sha256": "B470C06BD2F9ED5439C0354DAF99A8868044FDE763D999294142DC9EEC817BD9",
+  "size": 70509233,
+  "publishedAt": "2026-08-18T08:58:54Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.8.21"
 }

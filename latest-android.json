@@ -1,12 +1,12 @@
 {
   "platform": "android",
-  "versionCode": 238,
-  "version": "1.8.21-android",
-  "releaseNotes": "优化游戏内地图显示设置。自动地图和自动定点地图入口暂时关闭，避免误触。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.21/IdentityV-Map-pe-1.8.21.apk",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.21/IdentityV-Map-pe-1.8.21.apk",
-  "sha256": "B470C06BD2F9ED5439C0354DAF99A8868044FDE763D999294142DC9EEC817BD9",
-  "size": 70509233,
-  "publishedAt": "2026-08-18T08:58:54Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.8.21"
+  "versionCode": 239,
+  "version": "1.8.22-android",
+  "releaseNotes": "保留本轮地图显示与录制稳定性优化。首页自动地图入口暂时关闭。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.22/IdentityV-Map-pe-1.8.22.apk",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.22/IdentityV-Map-pe-1.8.22.apk",
+  "sha256": "7CD446592B3503F381913ED07A46549CFA6028E610B32DE6ADA0350F1E8D771E",
+  "size": 70589823,
+  "publishedAt": "08/19/2026 05:10:50",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.8.22"
 }

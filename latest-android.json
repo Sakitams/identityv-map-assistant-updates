@@ -1,12 +1,12 @@
 {
   "platform": "android",
-  "versionCode": 240,
-  "version": "1.8.23-android",
-  "releaseNotes": "首页“自动地图”入口暂时关闭，后续版本恢复。自动地图页面、原生桥接和语音导航固定识别链路继续保留。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.23/IdentityV-Map-pe-1.8.23.apk",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.23/IdentityV-Map-pe-1.8.23.apk",
-  "sha256": "E3462FD30E84E2212962F7253D4BF620A29DA2BB82A0EEB5FFB3B7FFD6DBFC13",
-  "size": 70598307,
-  "publishedAt": "2026-08-19T14:54:59Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.8.23"
+  "versionCode": 241,
+  "version": "1.8.24-android",
+  "releaseNotes": "修复部分旧手机打开地图或语音页面时可能无法加载的问题。首页“自动地图”入口暂时关闭，后续版本恢复。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.24/IdentityV-Map-pe-1.8.24.apk",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.24/IdentityV-Map-pe-1.8.24.apk",
+  "sha256": "8B8F9A01C4E93DC976C09E06B78002BC36EEEC559871DCDC835C790CE3FC72D7",
+  "size": 70580003,
+  "publishedAt": "2026-08-20T17:53:31Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.8.24"
 }

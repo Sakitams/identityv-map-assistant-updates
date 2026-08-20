@@ -1,17 +1,17 @@
 {
   "platform": "windows",
-  "versionCode": 156,
-  "version": "1.5.6",
-  "releaseNotes": "默认界面升级为浅色；修复开箱连点按住无反应；修复 map-01 游戏地图对齐锚点。",
+  "versionCode": 157,
+  "version": "1.5.7",
+  "releaseNotes": "修复开箱连点在 Windows 文件锁竞争下的崩溃问题，提升识别稳定性。",
   "downloadMode": "direct",
   "downloadProvider": "夸克网盘",
   "downloadPageUrl": "https://pan.quark.cn/s/4cec4ca814f7",
   "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.5.1/IdentityV-Map-pc-1.5.1-bridge.exe",
   "sha256": "AF584BFC1750E8C2349A1DCC5152D8CA431A260F41ACE22CBDC5EC82C447D8DE",
   "size": 120840357,
-  "installerUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.5.6/IdentityV-Map-pc-1.5.6.exe",
-  "installerSha256": "1ACAB916789B71A814E564D7445230FDCE1E36B27CCFCD3A98A21CBE14EA8F94",
-  "installerSize": 155036231,
-  "publishedAt": "2026-08-19T06:31:57.0392307Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/windows-v1.5.6"
+  "installerUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.5.7/IdentityV-Map-pc-1.5.7.exe",
+  "installerSha256": "222C07FD69A8EEFBC746F7022F7677488DEE40ADE167DE64F9425BB9D61A6CCD",
+  "installerSize": 155019349,
+  "publishedAt": "2026-08-20T13:53:23.0001565Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/windows-v1.5.7"
 }

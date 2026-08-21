@@ -1,12 +1,12 @@
 {
   "platform": "android",
-  "versionCode": 241,
-  "version": "1.8.24-android",
-  "releaseNotes": "修复部分旧手机打开地图或语音页面时可能无法加载的问题。首页“自动地图”入口暂时关闭，后续版本恢复。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.24/IdentityV-Map-pe-1.8.24.apk",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.24/IdentityV-Map-pe-1.8.24.apk",
-  "sha256": "8B8F9A01C4E93DC976C09E06B78002BC36EEEC559871DCDC835C790CE3FC72D7",
-  "size": 70580003,
-  "publishedAt": "2026-08-20T17:53:31Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.8.24"
+  "versionCode": 242,
+  "version": "1.8.25-android",
+  "releaseNotes": "悬浮窗新增噩梦手动选图，支持负一楼、1楼、2楼切换。首页自动地图入口已关闭，长按楼层只收起当前地图。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.25/IdentityV-Map-pe-1.8.25.apk",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.25/IdentityV-Map-pe-1.8.25.apk",
+  "sha256": "435A9DF0783A7021BEB2976547DA216CD251499A56864E011334377AA63F0ED4",
+  "size": 70633283,
+  "publishedAt": "2026-08-21T06:10:00Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.8.25"
 }

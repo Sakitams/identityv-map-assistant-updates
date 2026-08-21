@@ -5,8 +5,8 @@
   "releaseNotes": "悬浮窗新增噩梦手动选图，支持负一楼、1楼、2楼切换。首页自动地图入口已关闭，长按楼层只收起当前地图。",
   "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.25/IdentityV-Map-pe-1.8.25.apk",
   "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.25/IdentityV-Map-pe-1.8.25.apk",
-  "sha256": "435A9DF0783A7021BEB2976547DA216CD251499A56864E011334377AA63F0ED4",
-  "size": 70633283,
+  "sha256": "551ABE5D793C61379A194185E86DA2B3DF107AB2BE5711CDAA0C21B9F66F8B57",
+  "size": 70633291,
   "publishedAt": "2026-08-21T06:10:00Z",
   "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.8.25"
 }

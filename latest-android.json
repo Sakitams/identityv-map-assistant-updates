@@ -1,12 +1,12 @@
 {
   "platform": "android",
-  "versionCode": 242,
-  "version": "1.8.25-android",
-  "releaseNotes": "悬浮窗新增噩梦手动选图，支持负一楼、1楼、2楼切换。首页自动地图入口已关闭，长按楼层只收起当前地图。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.25/IdentityV-Map-pe-1.8.25.apk",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.8.25/IdentityV-Map-pe-1.8.25.apk",
-  "sha256": "551ABE5D793C61379A194185E86DA2B3DF107AB2BE5711CDAA0C21B9F66F8B57",
-  "size": 70633291,
-  "publishedAt": "2026-08-21T06:10:00Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.8.25"
+  "versionCode": 244,
+  "version": "1.9.0-android",
+  "releaseNotes": "首页支持浅色和深色主题切换。噩梦模式可切换爱吃醋、爱吃醋速刷和自定义图库，速刷路线图已去除黑底。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.9.0/IdentityV-Map-pe-1.9.0.apk",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.9.0/IdentityV-Map-pe-1.9.0.apk",
+  "sha256": "E9A3B0246CF0B0223AD4B888BB354EBB98DD92C43BC1D75AB61AF0D081C36DB1",
+  "size": 87874353,
+  "publishedAt": "08/22/2026 07:01:38",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.9.0"
 }

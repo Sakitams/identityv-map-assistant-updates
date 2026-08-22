@@ -1,17 +1,17 @@
 {
   "platform": "windows",
-  "versionCode": 160,
-  "version": "1.6.0",
-  "releaseNotes": "新增困难/噩梦模式切换与键盘手动选图，优化界面体验和应用图标。",
+  "versionCode": 161,
+  "version": "1.6.1",
+  "releaseNotes": "修复模式状态并同步困难手动选图侧门缩略图",
   "downloadMode": "direct",
   "downloadProvider": "夸克网盘",
   "downloadPageUrl": "https://pan.quark.cn/s/4cec4ca814f7",
   "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.5.1/IdentityV-Map-pc-1.5.1-bridge.exe",
   "sha256": "AF584BFC1750E8C2349A1DCC5152D8CA431A260F41ACE22CBDC5EC82C447D8DE",
   "size": 120840357,
-  "installerUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.6.0/IdentityV-Map-pc-1.6.0.exe",
-  "installerSha256": "63738D5D655BC617BE53D0CB135846D3C9ED9387E538E8AEDC73D3A48F6AAF5C",
-  "installerSize": 162022582,
-  "publishedAt": "2026-08-22T04:46:53.6548229Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/windows-v1.6.0"
+  "installerUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.6.1/IdentityV-Map-pc-1.6.1.exe",
+  "installerSha256": "36AB01FB2BA2692586FEC96433D2C7144025ED964A421FC5D345B92DC01414AE",
+  "installerSize": 162103679,
+  "publishedAt": "2026-08-22T23:50:08.7805666Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/windows-v1.6.1"
 }

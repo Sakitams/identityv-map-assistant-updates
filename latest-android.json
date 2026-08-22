@@ -1,12 +1,12 @@
 {
   "platform": "android",
-  "versionCode": 244,
-  "version": "1.9.0-android",
-  "releaseNotes": "首页支持浅色和深色主题切换。噩梦模式可切换爱吃醋、爱吃醋速刷和自定义图库，速刷路线图已去除黑底。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.9.0/IdentityV-Map-pe-1.9.0.apk",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.9.0/IdentityV-Map-pe-1.9.0.apk",
-  "sha256": "E9A3B0246CF0B0223AD4B888BB354EBB98DD92C43BC1D75AB61AF0D081C36DB1",
-  "size": 87874353,
-  "publishedAt": "08/22/2026 07:01:38",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.9.0"
+  "versionCode": 245,
+  "version": "1.9.1-android",
+  "releaseNotes": "噩梦图库路线组合在窄屏会紧凑同排显示，右中不再单独换行。悬浮地图在移动或穿透状态可通过右上角加减按钮调整大小。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.9.1/IdentityV-Map-pe-1.9.1.apk",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.9.1/IdentityV-Map-pe-1.9.1.apk",
+  "sha256": "E47675141E6071AD0F83B724141A88C9D84CDD9361A5B37E692F26110B2003F3",
+  "size": 87882521,
+  "publishedAt": "2026-08-22T16:43:38Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.9.1"
 }

@@ -1,12 +1,12 @@
 {
   "platform": "android",
-  "versionCode": 245,
-  "version": "1.9.1-android",
-  "releaseNotes": "噩梦图库路线组合在窄屏会紧凑同排显示，右中不再单独换行。悬浮地图在移动或穿透状态可通过右上角加减按钮调整大小。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.9.1/IdentityV-Map-pe-1.9.1.apk",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.9.1/IdentityV-Map-pe-1.9.1.apk",
-  "sha256": "E47675141E6071AD0F83B724141A88C9D84CDD9361A5B37E692F26110B2003F3",
-  "size": 87882521,
-  "publishedAt": "2026-08-22T16:43:38Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.9.1"
+  "versionCode": 246,
+  "version": "1.9.2-android",
+  "releaseNotes": "新增噩梦模式凉哈皮图库，支持上、下、右方向筛选和地图下载入口。优化手动选图、悬浮地图与地图楼层显示，修复部分识别与按钮交互问题。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.9.2/IdentityV-Map-pe-1.9.2.apk",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.9.2/IdentityV-Map-pe-1.9.2.apk",
+  "sha256": "ABC97C2E2B15C6E7C500B361DC86F373F8CC959CB82F3CA3E152D56A4C810924",
+  "size": 107461363,
+  "publishedAt": "2026-08-24T03:58:42Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.9.2"
 }

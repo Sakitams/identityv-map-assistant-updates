@@ -1,17 +1,17 @@
 {
   "platform": "windows",
-  "versionCode": 162,
-  "version": "1.6.2",
-  "releaseNotes": "新增噩梦模式双图源手动选图，可切换爱吃醋与爱吃醋速摸版；优化悬浮地图、手动快捷键与开箱连点稳定性。",
+  "versionCode": 163,
+  "version": "1.6.3",
+  "releaseNotes": "修复开箱连点在部分 Windows 和游戏内无法触发的问题，默认按住 F8 连发 F。优化夜莺速摸版透明悬浮图、手动选图体验与地图识别稳定性。",
   "downloadMode": "direct",
   "downloadProvider": "夸克网盘",
   "downloadPageUrl": "https://pan.quark.cn/s/4cec4ca814f7",
   "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.5.1/IdentityV-Map-pc-1.5.1-bridge.exe",
   "sha256": "AF584BFC1750E8C2349A1DCC5152D8CA431A260F41ACE22CBDC5EC82C447D8DE",
   "size": 120840357,
-  "installerUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.6.2/IdentityV-Map-pc-1.6.2.exe",
-  "installerSha256": "0674B02E15292967E307DD388270370D0A1219D6A723DC7285F306FE2655DF03",
-  "installerSize": 168267673,
-  "publishedAt": "2026-08-23T18:08:36.6153165Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/windows-v1.6.2"
+  "installerUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/windows-v1.6.3/IdentityV-Map-pc-1.6.3.exe",
+  "installerSha256": "0E1E2ACB49EBF7F8EB430BA217AC21845891B5C0624919CD555365F1C73A3D77",
+  "installerSize": 183012568,
+  "publishedAt": "2026-08-25T01:27:24.3452773Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/windows-v1.6.3"
 }

@@ -1,12 +1,12 @@
 {
   "platform": "android",
-  "versionCode": 247,
-  "version": "1.9.3-android",
-  "releaseNotes": "新增语音包广场：可浏览、下载和投稿地图文案语音导航方案，支持自定义简介、分组、地图名和文案；优化图库入口与社区页面。新增邮箱账号资料、恢复码找回和账号安全设置；同步更多悬浮图与定点地图设置。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.9.3/IdentityV-Map-pe-1.9.3.apk",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.9.3/IdentityV-Map-pe-1.9.3.apk",
-  "sha256": "F5156094396A361FBEFDE6EB02914F80747E16CEB14686A91478ED0DAC368EE1",
-  "size": 107702740,
-  "publishedAt": "2026-08-25T02:33:52Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.9.3"
+  "versionCode": 248,
+  "version": "1.9.4-android",
+  "releaseNotes": "定点地图已统一为悬浮窗操作，困难和噩梦地图均可使用；支持地图按钮、楼层按钮或工具栏、局内图库切换和独立楼层编辑保存。自动地图入口改为首页左上角图标 1 秒内连续点击 3 次；移除旧演示录制、悬浮预览与错误信息保存。修复下载社区语音包后手动选图未正确传入地图的问题。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.9.4/IdentityV-Map-pe-1.9.4.apk",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.9.4/IdentityV-Map-pe-1.9.4.apk",
+  "sha256": "3F3F2FDC06C7219E5811A54FF6E3C6C50AA12031A9500693DED6862B8DAB8855",
+  "size": 115197433,
+  "publishedAt": "2026-08-26T05:58:28Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.9.4"
 }

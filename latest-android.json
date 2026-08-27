@@ -2,11 +2,11 @@
   "platform": "android",
   "versionCode": 248,
   "version": "1.9.4-android",
-  "releaseNotes": "定点地图已统一为悬浮窗操作，困难和噩梦地图均可使用；支持地图按钮、楼层按钮或工具栏、局内图库切换和独立楼层编辑保存。自动地图入口改为首页左上角图标 1 秒内连续点击 3 次；移除旧演示录制、悬浮预览与错误信息保存。修复下载社区语音包后手动选图未正确传入地图的问题。",
+  "releaseNotes": "优化定点地图与自动地图的显示稳定性，改进地图设置、手动选图和语音导航体验。",
   "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.9.4/IdentityV-Map-pe-1.9.4.apk",
   "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.9.4/IdentityV-Map-pe-1.9.4.apk",
-  "sha256": "3F3F2FDC06C7219E5811A54FF6E3C6C50AA12031A9500693DED6862B8DAB8855",
-  "size": 115197433,
-  "publishedAt": "2026-08-26T05:58:28Z",
+  "sha256": "7E22370ADAA95D167CC9C393268806A8D6B9F5D8D8611DAE2D7D004F1527A46B",
+  "size": 110011409,
+  "publishedAt": "2026-08-27T02:36:53.8725005Z",
   "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.9.4"
 }

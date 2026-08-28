@@ -1,12 +1,12 @@
 {
   "platform": "android",
-  "versionCode": 249,
-  "version": "1.9.5-android",
-  "releaseNotes": "优化定点地图、手动选图和语音导航体验，改进已选地图的自动路线贴合稳定性。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.9.5/IdentityV-Map-pe-1.9.5.apk",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.9.5/IdentityV-Map-pe-1.9.5.apk",
-  "sha256": "CAB636D9FA2C8C8E9B4DA4B593CE9077E4E1AF23C768FC775BDB043E06F5661B",
-  "size": 110020825,
-  "publishedAt": "2026-08-27T04:13:44.5279670Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.9.5"
+  "versionCode": 250,
+  "version": "1.9.6-android",
+  "releaseNotes": "优化游戏内地图显示跟随与隐藏清理，完善语音导航、社区语音包下载反馈和展十速刷图库。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.9.6/IdentityV-Map-pe-1.9.6.apk",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.9.6/IdentityV-Map-pe-1.9.6.apk",
+  "sha256": "F75B4B5DC90A3198744C24CF7473515056993EE9A0C7E43F22A3FCDEDD9023F3",
+  "size": 119431508,
+  "publishedAt": "2026-08-28T05:15:30.2420583Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.9.6"
 }

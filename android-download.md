@@ -1,8 +1,8 @@
 # Android 下载
 
-[下载 Android v1.9.5](https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.9.5/IdentityV-Map-pe-1.9.5.apk)
+[下载 Android v1.9.6](https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.9.6/IdentityV-Map-pe-1.9.6.apk)
 
-版本：1.9.5-android（249）
+版本：1.9.6-android（250）
 
-APK 大小：110,020,825 字节
-SHA-256：CAB636D9FA2C8C8E9B4DA4B593CE9077E4E1AF23C768FC775BDB043E06F5661B
+APK 大小：119,431,508 字节
+SHA-256：F75B4B5DC90A3198744C24CF7473515056993EE9A0C7E43F22A3FCDEDD9023F3

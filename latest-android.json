@@ -1,12 +1,12 @@
 {
   "platform": "android",
-  "versionCode": 250,
-  "version": "1.9.6-android",
-  "releaseNotes": "优化游戏内地图显示跟随与隐藏清理，完善语音导航、社区语音包下载反馈和展十速刷图库。",
-  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.9.6/IdentityV-Map-pe-1.9.6.apk",
-  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.9.6/IdentityV-Map-pe-1.9.6.apk",
-  "sha256": "F75B4B5DC90A3198744C24CF7473515056993EE9A0C7E43F22A3FCDEDD9023F3",
-  "size": 119431508,
-  "publishedAt": "2026-08-28T05:15:30.2420583Z",
-  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.9.6"
+  "versionCode": 251,
+  "version": "1.9.7-android",
+  "releaseNotes": "修复游戏内地图在弱帧或大幅拖动时可能异常隐藏的问题，提升自动路线跟随、地图控件恢复和语音导航定点地图的稳定性。",
+  "downloadUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.9.7/IdentityV-Map-pe-1.9.7.apk",
+  "apkUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/download/android-v1.9.7/IdentityV-Map-pe-1.9.7.apk",
+  "sha256": "2896661D0CDD193577431E9825ABF56A6B4ED2BD9C2811509FD681B7715F598F",
+  "size": 119466712,
+  "publishedAt": "2026-08-29T08:20:13.300Z",
+  "releaseUrl": "https://github.com/Sakitams/identityv-map-assistant-updates/releases/tag/android-v1.9.7"
 }
